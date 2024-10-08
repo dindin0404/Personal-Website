@@ -1,0 +1,62 @@
+
+.button{
+    padding-top:0px;
+    background-color: burlywood;
+    color:black;
+    transition: 2s;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-inline: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    
+    
+    
+}
+.w{
+    font-size: 25px;
+    text-align: center;   
+    color: black;
+    padding-inline: 50px;
+    font-style: bold;
+    padding-top: 10px;
+
+}
+
+.pr{
+    width: 350px;
+    height: 250px;
+    padding-bottom: 0px;
+    padding-top: 25px;
+    padding-right: 25px;
+    
+}
+
+.about{
+    font-size:25px;
+    padding-top: 30px;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    padding-top: 25px;
+    padding-right:25px ;
+}
+.AL{
+    background-color: aquamarine;
+}
+.footer{
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.x{
+    padding-left: 300px;
+}
+.contact{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
